@@ -1,1 +1,2 @@
-None
+This Extension made for read/write file.
+You can read/write/edit/delete file.
